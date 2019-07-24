@@ -30,3 +30,26 @@ Enter the String - abcdabcd
 Enter the String - shopper
 [2, 1, 0, 1, 1, 0, 1]
 
+### Program 3: Phone Numbers Repetition
+given a list of phone numbers,no number is a prefix of another 
+n is number of phone numbers
+
+first line of input is n 1<=n<=10
+following are the numbers taken as input 
+input:
+3
+911
+8452179965
+9116565656
+output:
+No,there is a collision with 911
+
+example2
+input:
+4
+523
+5245132
+5278945
+5277893
+output:
+Yes,it is consistent for 4 numbers
